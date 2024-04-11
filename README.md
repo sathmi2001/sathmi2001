@@ -6,6 +6,8 @@
 
 ###
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sathmi2001&label=Profile%20views&color=0e75b6&style=flat" alt="sathmi2001" /> </p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathmi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sathmi2001&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
