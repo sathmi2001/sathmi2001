@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sathmi  and I'm aN undergraduate at SLIIT.</h2>
+<h2 align="center">Hi 👋! My name is Sathmi  and I'm an undergraduate at SLIIT.</h2>
 
 ###
 
