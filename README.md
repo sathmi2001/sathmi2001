@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">💬 Ask me about=> Testing <br><br>📫 How to reach me => sathmitharumila27@gmail.com</h3>
+<h3 align="center">💬 Ask me about=> Software Testing <br><br>📫 How to reach me => sathmitharumila27@gmail.com</h3>
 
 ###
 ---
